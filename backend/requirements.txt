@@ -20,3 +20,4 @@ google-genai==1.41.0
 sentence-transformers
 torch==2.14.0
 pymupdf
+psycopg2-binary==2.9.12
